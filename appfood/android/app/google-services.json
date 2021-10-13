@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633034037787",
+    "project_id": "conssy-dishes",
+    "storage_bucket": "conssy-dishes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633034037787:android:f7f617b1cb15265de1f6be",
+        "android_client_info": {
+          "package_name": "com.example.appfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633034037787-eaktuqaeog9amsieocae9tn1jnjapu32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appfood",
+            "certificate_hash": "b910948eac7dbc08e7080bcad6afd67abe512632"
+          }
+        },
+        {
+          "client_id": "633034037787-dcksfmn0d8q3c9ov581fkqc6ql5tl6nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4cEYAbSY82zuv9NKskEOV3d9P0C5oso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633034037787-dcksfmn0d8q3c9ov581fkqc6ql5tl6nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
